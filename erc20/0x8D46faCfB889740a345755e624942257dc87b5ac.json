@@ -1,0 +1,22 @@
+{
+  "symbol": "MI Token",
+  "address": "0x8D46faCfB889740a345755e624942257dc87b5ac",
+  "overview":{
+        "en": "A digital asset exchange network for chain hosting, asset trading and payment services.",
+        "zh": "一个链上托管、资产交易、支付服务的数字资产兑换网络。"
+  },
+  "email": "fund@mitoken.network",
+  "website": "https://home.mitoken.network/",
+  "whitepaper": "https://home.mitoken.network/mitoken_whitepaper.pdf",
+  "state": "LOCKED",
+  "published_on": "2018-05-04",
+  "initial_price":{
+        "ETH":"0.00033898 ETH",
+        "USD":"0.2 USD",
+        "BTC":"0.00002667 BTC"
+  },
+  "links": {
+    "blog": "https://home.mitoken.network/blog",
+    "telegram": "https://t.me/mi_token",
+  }
+}
